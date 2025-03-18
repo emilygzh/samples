@@ -2,7 +2,7 @@ Hi!
 
 - PhasorArithmetic.py and TruthTableGenerator.py are quick Python scripts that I wrote to solve/check my homework questions for my Intro to Circuits class.
 
-- Aamnrs.java, HummanDecoding.java, MemberCheck.java, and SortByFreqs.java are all quick Java functions from my Data Structures & Algorithms class.
+- Aaagmnrs.java, HummanDecoding.java, MemberCheck.java, and SortByFreqs.java are all quick Java functions from my Data Structures & Algorithms class.
   
 - I created oven.circ from a boolean expression/FSM/truth table I derived from a logic prompt for my Computer Architecture class.
   
