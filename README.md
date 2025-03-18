@@ -10,4 +10,4 @@ Hi!
   
 - music1.m is a MatLab script I wrote to play Mia & Sebastian's Theme for fun (during Signals & Systems)
   
-- Read more about my internship projects here: https://docs.google.com/document/d/1RsONObJt4fAS39MHT79lkvLfTQ0_U-A-01jxcamJ1mA/edit?usp=sharing 
+- Read more about one of my internship projects here: https://docs.google.com/document/d/1RsONObJt4fAS39MHT79lkvLfTQ0_U-A-01jxcamJ1mA/edit?usp=sharing 
